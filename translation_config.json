@@ -1,0 +1,10 @@
+{
+  "source_language": "Spanish",
+  "target_language": "English",
+  "input_dir": "input",
+  "output_dir": "output",
+  "output_suffix": "English",
+  "model": null,
+  "ollama_url": "http://127.0.0.1:11434",
+  "batch_size": 16
+}
